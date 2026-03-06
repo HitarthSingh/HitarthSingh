@@ -2,13 +2,13 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=28&center=true&vCenter=true&width=600&lines=DSA+Enthusiast;Building+Cool+Projects;Always+Learning+New+Things)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=28&center=true&vCenter=true&width=600&lines=CSE+Student;DSA+Enthusiast;Building+Cool+Projects;Always+Learning+New+Things)](https://git.io/typing-svg)
 
 </div>
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=HitarthSingh&label=Profile%20views&color=0e75b6&style=flat" />
+<img src="https://komarev.com/ghpvc/?username=HitarthSingh&label=Profile%20views&color=0e75b6&style=flat" alt="HitarthSingh" />
 
 </div>
 
@@ -49,9 +49,11 @@
 
 # 📊 GitHub Stats
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=HitarthSingh&show_icons=true&theme=radical&cache_seconds=1800"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=HitarthSingh&show_icons=true&theme=radical"/>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HitarthSingh&layout=compact&theme=radical&cache_seconds=1800"/>
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=HitarthSingh&theme=radical"/>
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HitarthSingh&layout=compact&theme=radical"/>
 
 </div>
 
