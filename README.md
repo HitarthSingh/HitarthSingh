@@ -54,4 +54,4 @@
 </a>
 
 </div>
-![snake gif](https://github.com/HitarthSingh/HitarthSingh/blob/output/github-snake-dark.svg)
+![snake gif](https://raw.githubusercontent.com/HitarthSingh/HitarthSingh/output/github-snake-dark.svg)
