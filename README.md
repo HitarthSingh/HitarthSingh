@@ -2,7 +2,7 @@
 <img src="https://komarev.com/ghpvc/?username=HitarthSingh&label=Profile%20views&color=0e75b6&style=flat" alt="HitarthSingh" />
 </p>
 
-# 💻 Tech Stack:
+# 💻 Tech Stack
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -43,6 +43,8 @@
 
 ---
 
+### 🌐 Connect With Me
+
 <div align="left">
 
 <a href="https://www.linkedin.com/in/hitarth-pratap-singh-22929528b" target="_blank">
@@ -54,4 +56,9 @@
 </a>
 
 </div>
+
+---
+
+### 🐍 Contribution Snake
+
 ![snake gif](https://raw.githubusercontent.com/HitarthSingh/HitarthSingh/output/github-snake-dark.svg)
