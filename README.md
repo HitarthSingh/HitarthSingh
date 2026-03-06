@@ -1,3 +1,11 @@
+<h1 align="center">Hi 👋, I'm Hitarth Singh</h1>
+
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=28&center=true&vCenter=true&width=600&lines=CSE+Student;DSA+Enthusiast;Building+Cool+Projects;Always+Learning+New+Things)](https://git.io/typing-svg)
+
+</div>
+
 <div align="center">
 
 <img src="https://komarev.com/ghpvc/?username=HitarthSingh&label=Profile%20views&color=0e75b6&style=flat" alt="HitarthSingh" />
@@ -24,7 +32,6 @@
 
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
 
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
@@ -42,11 +49,11 @@
 
 # 📊 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=HitarthSingh&theme=dark&hide_border=false&include_all_commits=true&count_private=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=HitarthSingh&show_icons=true&theme=radical"/>
 
-<img src="https://nirzak-streak-stats.vercel.app/?user=HitarthSingh&theme=dark&hide_border=false" />
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=HitarthSingh&theme=radical"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HitarthSingh&theme=dark&hide_border=false&layout=compact" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HitarthSingh&layout=compact&theme=radical"/>
 
 </div>
 
@@ -75,11 +82,15 @@
 ### 🌐 Connect With Me
 
 <a href="https://www.linkedin.com/in/hitarth-pratap-singh-22929528b">
-<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" />
+<img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
+</a>
+
+<a href="mailto:hitarth05052006@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" height="40"/>
 </a>
 
 <a href="https://discord.com/users/1169269882672648208">
-<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" />
+<img src="https://skillicons.dev/icons?i=discord" height="40"/>
 </a>
 
 </div>
