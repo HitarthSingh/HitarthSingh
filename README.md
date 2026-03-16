@@ -63,7 +63,7 @@
 
 # 🧠 LeetCode Stats
 
-<img src="https://leetcard.jacoblin.cool/HitarthSingh?theme=dark&font=baloo&ext=contest" />
+<!-- <img src="https://leetcard.jacoblin.cool/HitarthSingh?theme=dark&font=baloo&ext=contest" /> -->
 
 </div>
 
